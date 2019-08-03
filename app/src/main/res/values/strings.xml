@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toronto</string>
+
+    <string name="food_fragment">Food</string>
+    <string name="shopping_fragment">Shop</string>
+    <string name="hotel_fragment">Hotel</string>
+    <string name="attractions_fragment">Attraction</string>
+    <string name="default_name">name</string>
+    <string name="default_address">address</string>
+
+</resources>
